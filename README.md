@@ -1,3 +1,5 @@
-# SemiParaGNSSHeightFitting
+# 利用半参数模型精化多项式GNSS高程拟合模型
+
 毕业设计占位，毕业后存档
+
 不知不觉就要毕业了捏

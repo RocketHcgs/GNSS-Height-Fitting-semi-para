@@ -1,8 +1,8 @@
 from openpyxl import load_workbook
 import numpy as np
 
-data_file = 'data.xlsx' #原始数据文件
-output_file = 'data.xlsx' #输出数据文件
+data_file = 'data/data.xlsx' #原始数据文件
+output_file = 'data/data.xlsx' #输出数据文件
 # 拟合点数据位置设置
 posX_min = 'B2'
 posX_max = 'B16'
